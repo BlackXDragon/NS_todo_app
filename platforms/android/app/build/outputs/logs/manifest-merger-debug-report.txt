@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0f707b16d7cfc2dd7dc6772163006b46\AndroidManifest.xml:2:1-8:12
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\07a05f26a90558984a974c7662609ebb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7c79219006da3cb4501f1118bb41671d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7a3dab0ca3ca66e896ae8dd929fd3b09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fac6071e05a0e49abba01c8921fae760\AndroidManifest.xml:2:1-5:12
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\961114e5d61b34e5e3896d4685693339\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ab7cfea4890d6b7cd746bb773d35bbf3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\580d70f95aa914fef4f48819d0271a23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7b5608cf12a764877b31d860f2a0106e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\f80303e677d275edb351ac88d263da9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\5cf0db04482276144865569dba5d70d9\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\697d5790d2b93408392e3257b515a642\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\71d8dcca6910440ab9ae0d21b11991b9\AndroidManifest.xml:2:1-11:12
+MERGED from [:kinvey_nativescript_sdk:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\55f39725188f45db1e4437103c7efc8d\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:2:1-25:12
+MERGED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:2:1-25:12
+MERGED from [:nativescript_geolocation:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\20463af890ac5bdf43d06838d6655d4b\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_imagepicker:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4787a66c982311daf6a0d89bb516c99a\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:2:1-21:12
+MERGED from [:TNSAutoComplete-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\e4660e6dd874524a3f92cd4cf1aeeca8\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCalendar-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\710197577d3acc8658367269967685fc\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSChart-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\34147c9bedf924017d43aca0996e1f8a\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSDataForm-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fbc54ef40fc5c3bf81559c703ad1eec6\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSGauge-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d6509eb990244fd1d68e72a4b979cc7c\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSListView-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\69b1142704094df7b8d09d0cdc1c3be6\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSSideDrawer-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\61c3aad6bdaa0bdb94157098f15f13c2\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7fbad61dc02e467375a86eaf1f144374\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\510677c1d1a0133beb857ce65d41141e\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\78508e542ac7e98f519df9bf18cfbea4\AndroidManifest.xml:7:1-16:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c9a7646dfebed8c3cc106f8e4b478e0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ce93908565fb702a7d3f5993fec06f23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8c72e3042a6ce1a9a17ee0b835555d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\274dcad9e173b654945f5a20fdf6b043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\37e56b685c4c46f4f4cbf48faca853eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8bd24f28c0d383b2b5dd47d8b73b7c26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\350fe9ebe838d967fbe910b54bdf8823\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\08c66eee8ef7f6b5b64ba3ad548c6164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\3c2348023f6688a6a576b024942bc4ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ba24b6c31555eac6132d98eebb881300\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\27a9c6f80b75077f4202fb03a181a6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\70fb98c88e944c04cfd7fb49e50e29f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\84da307ab3f7f95a3ad7e453a676db09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\eda00a495326f3d4dbc8f545f9dd0fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\9b79213d35040f5ecbedfdeb2b58e3c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\81e40906fab5c52096315790a24a08b0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7818bbb9f5c53a88fa3e14a872e268a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\6617b31790dc6b29c23d7c7cd7be2112\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c500e91b97cbd084c52df537e9f2c7ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\558290e8ec33deb3cc74e3f0ad01ae3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\58836eb25c8e06f02432bd8e0ae38ee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1cfe8e646f1a5c4d2c5035cd9fcd51c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0455339ad14ec757da02ed4f609506e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0ff5225c8077b48b042d6e83df1cb28d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7cebb9394bf9e21ab20b472813d97a03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d3b87a32fededd76cc2b70b2dc01c697\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4252ce84fd01ea8461b1f02829344320\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\816f7418b4cced7862ce06e8f9fb2ca5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\76cf7642804f9a6db9ad120a785fb6a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\b335df1cee3a90f465610cc01bb42bc2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\586486aa0da7dec55224c2b0957ac88b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ca02e4160a4b5d62c79acd9b55393957\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\171b9deb9cee2084b87b2406b2352374\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\01df1a9f9287efc89d5f265a03db5cd1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\19a362ebd4eee289f57a5a6043a2e93c\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:3:64-98
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:3:127-154
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:3:99-126
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0f707b16d7cfc2dd7dc6772163006b46\AndroidManifest.xml:6:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0f707b16d7cfc2dd7dc6772163006b46\AndroidManifest.xml:6:5-44
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\07a05f26a90558984a974c7662609ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\07a05f26a90558984a974c7662609ebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7c79219006da3cb4501f1118bb41671d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7c79219006da3cb4501f1118bb41671d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7a3dab0ca3ca66e896ae8dd929fd3b09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7a3dab0ca3ca66e896ae8dd929fd3b09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fac6071e05a0e49abba01c8921fae760\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fac6071e05a0e49abba01c8921fae760\AndroidManifest.xml:3:5-43
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\961114e5d61b34e5e3896d4685693339\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\961114e5d61b34e5e3896d4685693339\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ab7cfea4890d6b7cd746bb773d35bbf3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ab7cfea4890d6b7cd746bb773d35bbf3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\580d70f95aa914fef4f48819d0271a23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\580d70f95aa914fef4f48819d0271a23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7b5608cf12a764877b31d860f2a0106e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7b5608cf12a764877b31d860f2a0106e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\f80303e677d275edb351ac88d263da9b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\f80303e677d275edb351ac88d263da9b\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\5cf0db04482276144865569dba5d70d9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\5cf0db04482276144865569dba5d70d9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\697d5790d2b93408392e3257b515a642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\697d5790d2b93408392e3257b515a642\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\71d8dcca6910440ab9ae0d21b11991b9\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\71d8dcca6910440ab9ae0d21b11991b9\AndroidManifest.xml:7:5-9:41
+MERGED from [:kinvey_nativescript_sdk:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\55f39725188f45db1e4437103c7efc8d\AndroidManifest.xml:7:5-47
+MERGED from [:kinvey_nativescript_sdk:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\55f39725188f45db1e4437103c7efc8d\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:8:5-47
+MERGED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:8:5-47
+MERGED from [:nativescript_geolocation:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\20463af890ac5bdf43d06838d6655d4b\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_geolocation:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\20463af890ac5bdf43d06838d6655d4b\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_imagepicker:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4787a66c982311daf6a0d89bb516c99a\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_imagepicker:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4787a66c982311daf6a0d89bb516c99a\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:7:5-47
+MERGED from [:TNSAutoComplete-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\e4660e6dd874524a3f92cd4cf1aeeca8\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSAutoComplete-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\e4660e6dd874524a3f92cd4cf1aeeca8\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCalendar-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\710197577d3acc8658367269967685fc\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCalendar-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\710197577d3acc8658367269967685fc\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSChart-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\34147c9bedf924017d43aca0996e1f8a\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSChart-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\34147c9bedf924017d43aca0996e1f8a\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fbc54ef40fc5c3bf81559c703ad1eec6\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fbc54ef40fc5c3bf81559c703ad1eec6\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSGauge-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d6509eb990244fd1d68e72a4b979cc7c\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSGauge-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d6509eb990244fd1d68e72a4b979cc7c\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\69b1142704094df7b8d09d0cdc1c3be6\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\69b1142704094df7b8d09d0cdc1c3be6\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\61c3aad6bdaa0bdb94157098f15f13c2\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\61c3aad6bdaa0bdb94157098f15f13c2\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7fbad61dc02e467375a86eaf1f144374\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7fbad61dc02e467375a86eaf1f144374\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\510677c1d1a0133beb857ce65d41141e\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\510677c1d1a0133beb857ce65d41141e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\78508e542ac7e98f519df9bf18cfbea4\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\78508e542ac7e98f519df9bf18cfbea4\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c9a7646dfebed8c3cc106f8e4b478e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c9a7646dfebed8c3cc106f8e4b478e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ce93908565fb702a7d3f5993fec06f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ce93908565fb702a7d3f5993fec06f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8c72e3042a6ce1a9a17ee0b835555d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8c72e3042a6ce1a9a17ee0b835555d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\274dcad9e173b654945f5a20fdf6b043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\274dcad9e173b654945f5a20fdf6b043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\37e56b685c4c46f4f4cbf48faca853eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\37e56b685c4c46f4f4cbf48faca853eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8bd24f28c0d383b2b5dd47d8b73b7c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\8bd24f28c0d383b2b5dd47d8b73b7c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\350fe9ebe838d967fbe910b54bdf8823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\350fe9ebe838d967fbe910b54bdf8823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\08c66eee8ef7f6b5b64ba3ad548c6164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\08c66eee8ef7f6b5b64ba3ad548c6164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\3c2348023f6688a6a576b024942bc4ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\3c2348023f6688a6a576b024942bc4ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ba24b6c31555eac6132d98eebb881300\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ba24b6c31555eac6132d98eebb881300\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\27a9c6f80b75077f4202fb03a181a6a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\27a9c6f80b75077f4202fb03a181a6a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\70fb98c88e944c04cfd7fb49e50e29f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\70fb98c88e944c04cfd7fb49e50e29f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\84da307ab3f7f95a3ad7e453a676db09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\84da307ab3f7f95a3ad7e453a676db09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\eda00a495326f3d4dbc8f545f9dd0fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\eda00a495326f3d4dbc8f545f9dd0fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\9b79213d35040f5ecbedfdeb2b58e3c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\9b79213d35040f5ecbedfdeb2b58e3c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\81e40906fab5c52096315790a24a08b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\81e40906fab5c52096315790a24a08b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7818bbb9f5c53a88fa3e14a872e268a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7818bbb9f5c53a88fa3e14a872e268a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\6617b31790dc6b29c23d7c7cd7be2112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\6617b31790dc6b29c23d7c7cd7be2112\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c500e91b97cbd084c52df537e9f2c7ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c500e91b97cbd084c52df537e9f2c7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\558290e8ec33deb3cc74e3f0ad01ae3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\558290e8ec33deb3cc74e3f0ad01ae3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\58836eb25c8e06f02432bd8e0ae38ee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\58836eb25c8e06f02432bd8e0ae38ee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1cfe8e646f1a5c4d2c5035cd9fcd51c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1cfe8e646f1a5c4d2c5035cd9fcd51c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0455339ad14ec757da02ed4f609506e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0455339ad14ec757da02ed4f609506e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0ff5225c8077b48b042d6e83df1cb28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0ff5225c8077b48b042d6e83df1cb28d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7cebb9394bf9e21ab20b472813d97a03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7cebb9394bf9e21ab20b472813d97a03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d3b87a32fededd76cc2b70b2dc01c697\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d3b87a32fededd76cc2b70b2dc01c697\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4252ce84fd01ea8461b1f02829344320\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4252ce84fd01ea8461b1f02829344320\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\816f7418b4cced7862ce06e8f9fb2ca5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\816f7418b4cced7862ce06e8f9fb2ca5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\76cf7642804f9a6db9ad120a785fb6a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\76cf7642804f9a6db9ad120a785fb6a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\b335df1cee3a90f465610cc01bb42bc2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\b335df1cee3a90f465610cc01bb42bc2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\586486aa0da7dec55224c2b0957ac88b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\586486aa0da7dec55224c2b0957ac88b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ca02e4160a4b5d62c79acd9b55393957\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\ca02e4160a4b5d62c79acd9b55393957\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\171b9deb9cee2084b87b2406b2352374\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\171b9deb9cee2084b87b2406b2352374\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\01df1a9f9287efc89d5f265a03db5cd1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\01df1a9f9287efc89d5f265a03db5cd1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\19a362ebd4eee289f57a5a6043a2e93c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\19a362ebd4eee289f57a5a6043a2e93c\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:5-74
+	android:targetSdkVersion
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:42-71
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		MERGED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:11:5-67
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:10:5-67
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:12:5-80
+MERGED from [:nativescript_imagepicker:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4787a66c982311daf6a0d89bb516c99a\AndroidManifest.xml:9:5-80
+MERGED from [:nativescript_imagepicker:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\4787a66c982311daf6a0d89bb516c99a\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:13:5-81
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:11:5-81
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:5-18:19
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:16:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\07a05f26a90558984a974c7662609ebb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\07a05f26a90558984a974c7662609ebb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fac6071e05a0e49abba01c8921fae760\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\fac6071e05a0e49abba01c8921fae760\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\5cf0db04482276144865569dba5d70d9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\5cf0db04482276144865569dba5d70d9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:19:5-21:19
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:12:5-23:19
+MERGED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:12:5-23:19
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:9:5-19:19
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:9:5-19:19
+MERGED from [:widgets-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\510677c1d1a0133beb857ce65d41141e\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\510677c1d1a0133beb857ce65d41141e\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\81e40906fab5c52096315790a24a08b0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\81e40906fab5c52096315790a24a08b0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\19a362ebd4eee289f57a5a6043a2e93c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\19a362ebd4eee289f57a5a6043a2e93c\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\073b64944b94d05d4c02ffc06dfd2182\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:122-154
+	android:icon
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:92-121
+	android:allowBackup
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:65-91
+	android:theme
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:155-186
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:9:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:10:63-108
+	android:configChanges
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:10:109-170
+	android:theme
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:10:171-211
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:10:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:11:13-96
+	android:resource
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:11:59-93
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:11:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:14:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from F:\Programming\nativescript\todo_app\platforms\android\app\src\main\AndroidManifest.xml:17:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:14:5-68
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:12:5-68
+MERGED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\0dadb2ab97336e3d9ddbacaaf028fb6a\AndroidManifest.xml:18:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\7ab6ad4027047983a0b5c04362102b50\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\c5cbd040159450a29b4bf0185c7c90ca\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:kinvey_nativescript_sdk:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\55f39725188f45db1e4437103c7efc8d\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:kinvey_nativescript_sdk:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\55f39725188f45db1e4437103c7efc8d\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:9:22-74
+service#com.alexbbb.uploadservice.UploadService
+ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:15:9-22:19
+	android:enabled
+		ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:16:13-67
+intent-filter#action:name:org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:19:13-21:29
+action#org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:20:17-99
+	android:name
+		ADDED from [:nativescript_background_http:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d8dd168781ff0ba702cdc6be03cb26b4\AndroidManifest.xml:20:25-96
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:10:22-62
+provider#android.support.v4.content.FileProvider
+ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:13:9-22:20
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:10:9-18:20
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:18:13-21:52
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:15:13-17:58
+MERGED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:20:17-55
+		REJECTED from [:nativescript_social_share:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\1f235ba001cd56e7dedfda09c2012ce8\AndroidManifest.xml:17:17-55
+	tools:replace
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:21:17-49
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\d7afb929f0dd413e986a3d7abdfd21ff\AndroidManifest.xml:19:17-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:nativescript_geolocation:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\20463af890ac5bdf43d06838d6655d4b\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:nativescript_geolocation:] C:\Users\Malolan\.gradle\caches\transforms-2\files-2.1\20463af890ac5bdf43d06838d6655d4b\AndroidManifest.xml:9:22-76

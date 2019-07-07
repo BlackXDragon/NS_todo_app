@@ -1,0 +1,4 @@
+F:\Programming\nativescript\todo_app\platforms\android\app\src\main\assets\app\bundle.js
+F:\Programming\nativescript\todo_app\platforms\android\app\src\main\assets\app\starter.js
+F:\Programming\nativescript\todo_app\platforms\android\app\src\main\assets\app\tns-java-classes.js
+F:\Programming\nativescript\todo_app\platforms\android\app\src\main\assets\app\vendor.js
